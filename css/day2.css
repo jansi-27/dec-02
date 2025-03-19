@@ -1,0 +1,26 @@
+.a {
+    background-color: blue;
+    margin :10px
+}
+.a,
+.b {
+    width:400px;
+    color:azure;
+    padding:20px;
+    background-color: rgb(98, 238, 191);
+}
+.b,
+.c {
+    width:400px;
+    color:azure;
+    padding:20px;
+    background-color: rgb(98, 238, 191);
+}
+.c,
+.d {
+    width:400px;
+    color:azure;
+    padding:20px;
+    background-color: rgb(98, 238, 191);
+}
+.d,
